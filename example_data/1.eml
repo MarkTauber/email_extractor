@@ -1,0 +1,31 @@
+Subject: shipment
+To: Ann Smith <ann.smith@company.com>
+Cc: Bernard Gold <bernard.gold@company.com>
+References: <ben.tree@company.com>
+From: "info@factory.org" <info@factory.org>
+Date: Fri, 8 Nov 2024 11:30:00 +0000
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="------------4FC81940FCE62B148502BCFE"
+Content-Language: us
+
+This is a multi-part message in MIME format.
+--------------4FC81940FCE62B148502BCFE
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Dear Ann,
+
+Please find below some test emails:
+
+* test@example.com
+* test.user@domain.net
+* user_123@company.org
+* info@example.co.uk
+
+We hope this helps you test the program effectively.
+
+Best regards,
+
+Joe
